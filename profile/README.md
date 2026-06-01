@@ -1,3 +1,4 @@
+<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/a2e42b8e-33e0-4e46-b5fd-3695fa832e01" />
 
 Welcome to the Infineon GitHub organization.
 
